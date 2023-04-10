@@ -1,0 +1,7 @@
+{
+    "url": "http://64.226.120.251:9091/spec.yaml",
+    "urls": [{
+        "url": "http://164.226.120.251:9091/spec.yaml",
+        "name": "Foo"
+    }]
+}
